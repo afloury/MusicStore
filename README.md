@@ -94,7 +94,7 @@ Idéalement vous ne devriez pas utiliser ces appels car vous pourriez contrarier
 
 ## TODO et attentes
 
-  - [ ] Créer un dépôt Github à partir de [l'invitation](https://classroom.github.com/assignment-invitations/b986c8e1765f2d8f65f555f9f2caea87)
+  - [ ] Créer un dépôt Github à partir de l'invitation
   - [ ] Créer un projet Android dans le clone du dépôt
   - [ ] Reproduire le mockup dans une application Android native
     - le filtre de recherche et la page Genres sont des bonus
@@ -106,12 +106,3 @@ Idéalement vous ne devriez pas utiliser ces appels car vous pourriez contrarier
 ## Version de Android Studio
 
 Pour votre confort, il est recommandé que vous utilisiez la [version 2.x](http://developer.android.com/sdk/index.html).
-
-## Questions ?
-
-Si vous avez des questions : [pierre.grabolosa@imerir.com](mailto:pierre.grabolosa@imerir.com) ou Skype (voir e-learning).
-
-Par ailleurs, j'essaierai d'être présent physiquement :
-
-  * Mercredi je serai en cours avec l'IFA Delorozoy. J'essaierai néanmoins de passer à la pause de midi et de l'après-midi.
-  * Jeudi je serai en cours à l'Imérir ; si besoin je peux être visité (voir planning des 2A pour le numéro de salle).
